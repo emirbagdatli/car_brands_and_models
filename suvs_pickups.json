@@ -268,7 +268,7 @@
     {
         "brand_name": "DFM",
         "origin": "China",
-        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/dfm-logo.png",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/dongfeng-motor-logo.png",
         "models": [
             {
                 "Rich": []
@@ -278,7 +278,7 @@
     {
         "brand_name": "DFSK",
         "origin": "China",
-        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/dfm-logo.png",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/dongfeng-motor-logo.png",
         "models": [
             {
                 "Glory 580": []
@@ -387,16 +387,6 @@
         ]
     },
     {
-        "brand_name": "Great Wall",
-        "origin": "China",
-        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/great-wall-logo.png",
-        "models": [
-            {
-                "Steed": []
-            }
-        ]
-    },
-    {
         "Honda": "Honda",
         "origin": "Japan",
         "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/honda-logo.png",
@@ -422,7 +412,7 @@
     {
         "Honda": "Hummer",
         "origin": "United States",
-        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/honda-logo.png",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/hummer-logo.png",
         "models": [
             {
                 "H1": [],
