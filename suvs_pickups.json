@@ -1,0 +1,1286 @@
+[
+    {
+        "brand_name": "Alfa Romeo",
+        "origin": "Italy",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/alfa-romeo-logo.png",
+        "models": [
+            {
+                "Stelvio": [
+                    "2.0",
+                    "2.2"
+                ]
+            }
+        ]
+    },
+    {
+        "brand_name": "Audi",
+        "origin": "Germany",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/audi-logo.png",
+        "models": [
+            {
+                "E-Tron": [
+                    "50 Quattro",
+                    "55 Quattro",
+                    "55 Quattro Launch Edition",
+                    "S Quattro",
+                    "Sportback 55 Quattro First Edition"
+                ],
+                "Q2": [
+                    "1.0 TFSI",
+                    "1.4 TFSI",
+                    "1.6 TDI",
+                    "30 TDI",
+                    "30 TFSI",
+                    "35 TFSI"
+                ],
+                "Q3": [
+                    "1.4 TFSi",
+                    "1.5 TFSİ",
+                    "1.5 TFSİ Sport",
+                    "2.0",
+                    "2.0 TDI",
+                    "2.0 TFSI",
+                    "35 TDI",
+                    "35 TFSI"
+                ],
+                "Q4": [
+                    "E-Tron"
+                ],
+                "Q5": [
+                    "2.0 TDI Quattro",
+                    "2.0 TDI Quattro Design",
+                    "2.0 TDI Quattro S Line",
+                    "2.0 TDI Quattro Sport",
+                    "2.0 TFSI Quattro",
+                    "3.0 TDI Quattro",
+                    "40 TDI",
+                    "40 TDI Quattro S-Line",
+                    "45 TFSI Quattro",
+                    "55 TFSI-e Quattro"
+                ],
+                "Q7": [
+                    "2.0 TFSI Quattro",
+                    "2.0 TFSI Quattro S-Line",
+                    "3.0 TDI Quattro S-Line",
+                    "3.0 TDI Quattro",
+                    "30 TFSI Quattro S-Line",
+                    "4.2 FSI Quattro",
+                    "45 TDI Quattro S-Line",
+                    "45 TFSI Quattro S-Line",
+                    "50 TDI",
+                    "Quattro S-Line"
+                ],
+                "Q8": [
+                    "50 TDI",
+                    "50 TDI Quattro S-Line",
+                    "55 TFSI",
+                    "55 TFSI Quattro",
+                    "55 TFSI QUATTRO S-Line",
+                    "SQ8"
+                ],
+                "RS Q8": [
+                    "40 TFSI Quattro"
+                ],
+                "SQ2": [],
+                "SQ5": [],
+                "SQ7": []
+            }
+        ]
+    },
+    {
+        "brand_name": "BMW",
+        "origin": "Germany",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/bmw-logo.png",
+        "models": [
+            {
+                "iX": [
+                    "xDrive 40"
+                ],
+                "iX3": [
+                    "Impressive"
+                ],
+                "X1": [
+                    "16d sDrive",
+                    "16i sDrive",
+                    "18d xDrive",
+                    "18i sDrive",
+                    "20d sDrive",
+                    "20d xDrive",
+                    "23d xDrive"
+                ],
+                "X2": [
+                    "1.6d sDrive",
+                    "18d xDrive",
+                    "18i sDrive",
+                    "2.0 S Drive",
+                    "20d xDrive",
+                    "M35i 2.0",
+                    "M35i xDrive"
+                ],
+                "X3": [
+                    "20d",
+                    "20d xDrive",
+                    "20i sDrive",
+                    "25i",
+                    "30",
+                    "30d",
+                    "30sd",
+                    "M40i"
+                ],
+                "X4": [
+                    "2.0i xDrive",
+                    "20d xDrive",
+                    "30i xDrive",
+                    "M"
+                ],
+                "X5": [
+                    "25d",
+                    "25d xDrive",
+                    "3.0d M Sport",
+                    "30d",
+                    "30d xDrive",
+                    "30i",
+                    "30sd",
+                    "30si",
+                    "35d xDrive",
+                    "40d xDrive",
+                    "40e xDrive",
+                    "44",
+                    "44 M",
+                    "46is",
+                    "48i",
+                    "M50d xDrive"
+                ],
+                "X6": [
+                    "30d xDrive",
+                    "35d xDrive",
+                    "35i xDrive",
+                    "40d M Sport",
+                    "40d xDrive",
+                    "44 M",
+                    "44i M xDrive",
+                    "50d M xDrive",
+                    "50i xDrive"
+                ],
+                "X7": [
+                    "3.0d"
+                ]
+            }
+        ]
+    },
+    {
+        "brand_name": "Cadillac",
+        "origin": "United States",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/cadillac-logo.png",
+        "models": [
+            {
+                "Escalade": [],
+                "SRX": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Chery",
+        "origin": "China",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/chery-logo.png",
+        "models": [
+            {
+                "Tiggo": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Chevrolet",
+        "origin": "United States",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/chevrolet-logo.png",
+        "models": [
+            {
+                "Avalanche": [],
+                "Blazer": [],
+                "Captiva": [],
+                "Colorado": [],
+                "Equinox": [],
+                "HHR": [],
+                "Silverado": [],
+                "Suburban": [],
+                "Tahoe": [],
+                "Traverse": [],
+                "Trax": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Chrysler",
+        "origin": "United States",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/chrysler-logo.png",
+        "models": [
+            {
+                "Pacificia": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Citroen",
+        "origin": "France",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/citroen-logo.png",
+        "models": [
+            {
+                "C3 AirCross": [],
+                "C4 Cactus": [],
+                "C4 SUV": [],
+                "C5 AirCross": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Cupra",
+        "origin": "Spain",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/cupra-logo.png",
+        "models": [
+            {
+                "Formentor": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Dacia",
+        "origin": "Romania",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/dacia-logo.png",
+        "models": [
+            {
+                "Duster": [],
+                "Sandero Stepway": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Daihatsu",
+        "origin": "Japan",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/daihatsu-logo.png",
+        "models": [
+            {
+                "Feroza": [],
+                "Rocky": [],
+                "Terios": []
+            }
+        ]
+    },
+    {
+        "brand_name": "DFM",
+        "origin": "China",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/dfm-logo.png",
+        "models": [
+            {
+                "Rich": []
+            }
+        ]
+    },
+    {
+        "brand_name": "DFSK",
+        "origin": "China",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/dfm-logo.png",
+        "models": [
+            {
+                "Glory 580": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Dodge",
+        "origin": "United States",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/dodge-logo.png",
+        "models": [
+            {
+                "Caliber": [],
+                "Durango": [],
+                "Journey": [],
+                "Nitro": [
+                    "2.8 CRD"
+                ],
+                "Ram": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Fiat",
+        "origin": "Italy",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/fiat-logo.png",
+        "models": [
+            {
+                "500 X": [],
+                "Egea Cross": [],
+                "Freemont": [],
+                "Fullback": [],
+                "Sedici": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Ford",
+        "origin": "United States",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/ford-logo.png",
+        "models": [
+            {
+                "EcoSport": [],
+                "Edge": [],
+                "Escape": [
+                    "ST-Line",
+                    "2.3",
+                    "2.0"
+                ],
+                "Expedition": [],
+                "Explorer": [],
+                "F Series": [
+                    "150",
+                    "F-150 Raptor"
+                ],
+                "Flex": [],
+                "Kuga": [
+                    "1.5 EcoBlue",
+                    "1.5 EcoBoost",
+                    "1.5 TDCI",
+                    "1.6 EcoBoost",
+                    "2.0 TDCI"
+                ],
+                "Maverick": [],
+                "Mustang Mach-E": [],
+                "Puma": [
+                    "1.0 EcoBoost"
+                ],
+                "Ranger": [
+                    "2.0 EcoBlue",
+                    "2.2 TDCi",
+                    "2.5 TDCi",
+                    "3.0 TDCi",
+                    "3.2 TDCi",
+                    "Wildtrak"
+                ],
+                "Ranger Raptor": [
+                    "2.0 EcoBlue"
+                ]
+            }
+        ]
+    },
+    {
+        "brand_name": "GMC",
+        "origin": "United States",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/gmc-logo.png",
+        "models": [
+            {
+                "Canyon": [],
+                "Envoy": [],
+                "Jimmy": [],
+                "Sierra": [],
+                "Sonoma": [],
+                "Yukon": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Great Wall",
+        "origin": "China",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/great-wall-logo.png",
+        "models": [
+            {
+                "Steed": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Great Wall",
+        "origin": "China",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/great-wall-logo.png",
+        "models": [
+            {
+                "Steed": []
+            }
+        ]
+    },
+    {
+        "Honda": "Honda",
+        "origin": "Japan",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/honda-logo.png",
+        "models": [
+            {
+                "CR-V": [
+                    "1.5 V-TEC"
+                ],
+                "Element": [],
+                "HR-V": [],
+                "Pilot": [],
+                "Vezel": [
+                    "1.5 i-VTEC 4WD CVT",
+                    "1.5 i-VTEC CVT",
+                    "1.5 i-VTEC Hybrid 4WD Automatic",
+                    "1.5 i-VTEC Hybrid Automatic"
+                ],
+                "WR-V": [],
+                "ZR-V": []
+            }
+        ]
+    },
+    {
+        "Honda": "Hummer",
+        "origin": "United States",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/honda-logo.png",
+        "models": [
+            {
+                "H1": [],
+                "H2": [],
+                "H3": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Infiniti",
+        "origin": "Japan",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/infiniti-logo.png",
+        "models": [
+            {
+                "EX": [],
+                "FX": [],
+                "QX": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Isuzu",
+        "origin": "Japan",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/isuzu-logo.png",
+        "models": [
+            {
+                "Amigo": [],
+                "Bighorn": [],
+                "D-Max": [],
+                "Mu": [],
+                "Rodeo": [],
+                "Rodeo Denver": [],
+                "Trooper": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Jaguar",
+        "origin": "United Kingdom",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/jaguar-logo.png",
+        "models": [
+            {
+                "E-Pace": [
+                    "2.0"
+                ],
+                "F-Pace": [
+                    "2.0 D",
+                    "2.0 D R-Sport",
+                    "2.0i",
+                    "2.5 D"
+                ],
+                "I-Pace": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Jeep",
+        "origin": "United States",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/jeep-logo.png",
+        "models": [
+            {
+                "Cherokee": [],
+                "CJ": [],
+                "Commander": [],
+                "Compass": [],
+                "Gladiator": [],
+                "Grand Cherokee": [],
+                "Patriot": [],
+                "Renegade": [],
+                "Wrangler": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Kia",
+        "origin": "South Korea",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/kia-logo.png",
+        "models": [
+            {
+                "EV9": [
+                    "GT-Line"
+                ],
+                "Niro": [],
+                "Retona": [],
+                "Sorento": [],
+                "Soul": [],
+                "Sportage": [],
+                "Stonic": [],
+                "XCeed": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Lada",
+        "origin": "Russia",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/lada-logo.png",
+        "models": [
+            {
+                "Niva": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Lamborghini",
+        "origin": "Italy",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/lamborghini-logo.png",
+        "models": [
+            {
+                "Urus": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Land Rover",
+        "origin": "United Kingdom",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/land-rover-logo.png",
+        "models": [
+            {
+                "Defender": [
+                    "110 2.0",
+                    "110 2.0 D",
+                    "110 2.5",
+                    "110 2.5 D",
+                    "110 2.5 TD",
+                    "110 2.5 TDI",
+                    "110 3.0",
+                    "110 3.0 TDI",
+                    "110 3.5",
+                    "130 2.5 TD",
+                    "130 3.5",
+                    "90 2.0 L",
+                    "90 2.5",
+                    "90 2.5 D",
+                    "90 2.5 TDI"
+                ],
+                "Discovery": [
+                    "2.0 MPI",
+                    "2.0 SD4",
+                    "2.0 Si4",
+                    "2.0 TD4",
+                    "2.5 TD5",
+                    "2.5 TDI",
+                    "2.7 TDV6",
+                    "3.0 SDV6",
+                    "3.0 TDV6",
+                    "3.5 V8",
+                    "3.9 V8",
+                    "4.0 Estate",
+                    "4.4 HSE"
+                ],
+                "Discovery Sport": [
+                    "1.5",
+                    "2.0 Si4",
+                    "2.0 TD4",
+                    "2.2 SD4"
+                ],
+                "Freelander": [
+                    "1.8",
+                    "2.0 DI",
+                    "2.0 TD4",
+                    "2.5 V6",
+                    "3.2",
+                    "II 2.2 SD4 HSE",
+                    "II 2.2 TD4",
+                    "II 2.0 Si4"
+                ],
+                "Range Rover": [
+                    "2.0 P400e Vogue",
+                    "2.0 PHEV",
+                    "2.5 TDI",
+                    "3.0 D300",
+                    "3.0 D350",
+                    "3.0 SDV6",
+                    "3.0 SV P510 Hybrid",
+                    "3.0 TD6",
+                    "3.0 TDV6",
+                    "3.5",
+                    "3.6 TDV8",
+                    "3.9",
+                    "3.9 Vogue",
+                    "4.0 SE",
+                    "4.2 Supercharged",
+                    "4.4 SDV8",
+                    "4.4 TDV8",
+                    "4.4 V8",
+                    "4.4 Vogue",
+                    "4.6 HSE",
+                    "4.6 Vogue",
+                    "5.0 Supercharged",
+                    "5.0 V8"
+                ],
+                "Range Rover Evoque": [
+                    "1.5",
+                    "1.5 PHEV",
+                    "2.0 Si4",
+                    "2.0 TD4",
+                    "2.2 SD4",
+                    "2.2 TD4",
+                    "3.0",
+                    "D200"
+                ],
+                "Range Rover Sport": [
+                    "2.0",
+                    "2.0 PHEV",
+                    "2.0 SD4",
+                    "2.7 TDV6",
+                    "3.0 D300",
+                    "3.0 D350",
+                    "3.0 SDV6",
+                    "3.0 TDV6",
+                    "3.6 TDV8 HSE",
+                    "4.2 Supercharged",
+                    "4.4 V8",
+                    "5.0 Supercharged",
+                    "5.0 V8",
+                    "P460e"
+                ],
+                "Range Rover Velar": [
+                    "2.0",
+                    "2.0 TD4",
+                    "3.0"
+                ]
+            }
+        ]
+    },
+    {
+        "brand_name": "Lexus",
+        "origin": "Japan",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/lexus-logo.png",
+        "models": [
+            {
+                "NX": [
+                    "300h"
+                ],
+                "RX": [],
+                "RX L": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Lincoln",
+        "origin": "United States",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/lincoln-logo.png",
+        "models": [
+            {
+                "Aviator": [],
+                "MKX": [],
+                "Nautilus": [],
+                "Navigator": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Maserati",
+        "origin": "Italy",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/maserati-logo.png",
+        "models": [
+            {
+                "Grecale": [
+                    "Folgore",
+                    "GT 2.0",
+                    "Modena",
+                    "Trofeo"
+                ],
+                "Levante": [
+                    "2.0 GDI",
+                    "3.0 V6",
+                    "3.0 V6 GDI",
+                    "GTS 3.8 V8",
+                    "Q4",
+                    "S 3.0 V6 GDI",
+                    "Trofeo 3.8 V8"
+                ]
+            }
+        ]
+    },
+    {
+        "brand_name": "Mazda",
+        "origin": "Japan",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/mazda-logo.png",
+        "models": [
+            {
+                "B Series": [],
+                "CX-3": [],
+                "CX-30": [],
+                "CX-5": [],
+                "CX-60": [
+                    "3.3",
+                    "3.3 Hybrid"
+                ],
+                "CX-8": [],
+                "CX-9": [],
+                "Tribute": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Mercedes-Benz",
+        "origin": "Germany",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/mercedes-benz-logo.png",
+        "models": [
+            {
+                "EQA": [
+                    "250"
+                ],
+                "EQB": [],
+                "EQC": [
+                    "400"
+                ],
+                "EQE": [
+                    "350",
+                    "450",
+                    "450+"
+                ],
+                "G Series": [
+                    "230 GE",
+                    "270 CDI",
+                    "280 GE",
+                    "290 GD",
+                    "300",
+                    "300 D (GD)",
+                    "300 TD",
+                    "320",
+                    "350",
+                    "350 D",
+                    "400 CDI",
+                    "400 D",
+                    "500",
+                    "55 AMG",
+                    "63 AMG"
+                ],
+                "GL": [
+                    "320 CDI",
+                    "350 CDI",
+                    "420 CDI",
+                    "450",
+                    "500"
+                ],
+                "GLA": [
+                    "180",
+                    "180 CDI",
+                    "180 d",
+                    "200",
+                    "200 d",
+                    "220",
+                    "250",
+                    "45 AMG"
+                ],
+                "GLB": [
+                    "200 AMG",
+                    "200 AMG 4Matic",
+                    "200 AMG+ 4Matic",
+                    "200 Progressive",
+                    "200 Progressive+ 4Matic"
+                ],
+                "GLC": [
+                    "200 Exclusive",
+                    "220",
+                    "220 d Exclusive",
+                    "220 d Off Road",
+                    "220d AMG",
+                    "250 AMG",
+                    "250 d AMG",
+                    "250 d Exclusive",
+                    "250 Exclusive",
+                    "250 Style",
+                    "250d",
+                    "300",
+                    "300 d AMG",
+                    "300d",
+                    "350 e",
+                    "43 AMG",
+                    "63"
+                ],
+                "GLC Coupe": [
+                    "220d",
+                    "300d",
+                    "63S"
+                ],
+                "GLE": [
+                    "250 d 4Matic AMG",
+                    "250 d 4Matic AMG Premium",
+                    "300 d",
+                    "350 d 4Matic AMG",
+                    "400 d 4Matic AMG",
+                    "43",
+                    "450 4Matic AMG",
+                    "450 d Premium Plus",
+                    "53 AMG 4Matic"
+                ],
+                "GLK": [
+                    "220 CDI Premium",
+                    "220 CDI Prime",
+                    "220 CDI Style",
+                    "250 CDI",
+                    "250 Premium",
+                    "320 CDI",
+                    "350 CDI"
+                ],
+                "GLS": [
+                    "350 D",
+                    "400",
+                    "400 D",
+                    "600 Maybach"
+                ],
+                "ML": [
+                    "230",
+                    "250",
+                    "270 CDI",
+                    "280 CDI",
+                    "300 CDI",
+                    "320",
+                    "320 CDI",
+                    "350",
+                    "350 AMG",
+                    "350 CDI",
+                    "400 CDI",
+                    "430",
+                    "500",
+                    "55 AMG",
+                    "63 AMG"
+                ],
+                "X": [
+                    "250 d Power",
+                    "250 d Progressive",
+                    "350 d 4Matic Power"
+                ]
+            }
+        ]
+    },
+    {
+        "brand_name": "MG",
+        "origin": "United Kingdom",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/mg-logo.png",
+        "models": [
+            {
+                "HS": [],
+                "ZS": [],
+                "ZS EV": [],
+                "ZST": []
+            }
+        ]
+    },
+    {
+        "brand_name": "MINI",
+        "origin": "United Kingdom",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/mini-logo.png",
+        "models": [
+            {
+                "Cooper Countryman": [
+                    "1.5",
+                    "1.5 D",
+                    "1.6",
+                    "1.6 D",
+                    "1.6 S",
+                    "2.0"
+                ]
+            }
+        ]
+    },
+    {
+        "brand_name": "Mitsubishi",
+        "origin": "Japan",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/mitsubishi-logo.png",
+        "models": [
+            {
+                "ASX": [
+                    "1.6 DI-D",
+                    "1.6 MIVEC",
+                    "2.0",
+                    "2.2"
+                ],
+                "Eclipse Cross": [],
+                "L 200": [
+                    "4x2",
+                    "4x4"
+                ],
+                "Outlander": [
+                    "2.0",
+                    "2.2",
+                    "2.4"
+                ],
+                "Pajero": [
+                    "1.1",
+                    "1.8 GDi Pinin",
+                    "1.8 Pinin",
+                    "2.0 GDi Pinin",
+                    "2.4d",
+                    "2.5 TD",
+                    "2.6",
+                    "2.8 TD",
+                    "3.0",
+                    "3.2 DI",
+                    "3.2 DID",
+                    "3.5"
+                ],
+                "RVR": [],
+                "Strada": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Nissan",
+        "origin": "Japan",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/nissan-logo.png",
+        "models": [
+            {
+                "Country": [],
+                "Datsun": [],
+                "Dualis": [],
+                "Juke": [],
+                "Kicks": [],
+                "Murano": [
+                    "3.5"
+                ],
+                "Navara": [
+                    "2.3 DCI",
+                    "2.5 D",
+                    "2.5 TDI",
+                    "3.0 TDI"
+                ],
+                "Pathfinder": [],
+                "Patrol": [],
+                "Qashqai": [
+                    "1.2 DIG-T",
+                    "1.3 DIG-T",
+                    "1.5 dCi",
+                    "1.6",
+                    "1.6 dCi",
+                    "2.0",
+                    "2.0 dCi"
+                ],
+                "Qashqai+2": [
+                    "1.5 dCi",
+                    "1.6",
+                    "2.0 dCi"
+                ],
+                "Rally Raid": [],
+                "Skystar": [],
+                "Terrano": [
+                    "2.4",
+                    "2.7 TDI",
+                    "3.0",
+                    "3.0 DI"
+                ],
+                "X-Trail": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Opel",
+        "origin": "Germany",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/opel-logo.png",
+        "models": [
+            {
+                "Antara": [],
+                "Crossland": [],
+                "Crossland X": [],
+                "Frontera": [],
+                "Grandland X": [],
+                "Mokka": [],
+                "Mokka E": [],
+                "Mokka X": [],
+                "Monterey": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Peugeot",
+        "origin": "France",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/peugeot-logo.png",
+        "models": [
+            {
+                "2008": [
+                    "GT 50 kw"
+                ],
+                "3008": [],
+                "4007": [],
+                "5008": [],
+                "e-2008": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Porsche",
+        "origin": "Germany",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/porsche-logo.png",
+        "models": [
+            {
+                "Cayenne": [
+                    "Platinum Edition",
+                    "S"
+                ],
+                "Cayenne Coupe": [],
+                "Macan": [
+                    "S",
+                    "T",
+                    "Turbo"
+                ]
+            }
+        ]
+    },
+    {
+        "brand_name": "Renault",
+        "origin": "France",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/renault-logo.png",
+        "models": [
+            {
+                "Captur": [],
+                "Kadjar": [],
+                "Koleos": [],
+                "Scenic RX4": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Seat",
+        "origin": "France",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/renault-logo.png",
+        "models": [
+            {
+                "Arona": [],
+                "Ateca": [],
+                "Taracco": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Skoda",
+        "origin": "Czech",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/skoda-logo.png",
+        "models": [
+            {
+                "Kamiq": [],
+                "Karoq": [],
+                "Kodiaq": [],
+                "Yeti": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Ssangyong",
+        "origin": "South Korea",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/ssangyong-logo.png",
+        "models": [
+            {
+                "Actyon": [],
+                "Actyon Sports": [],
+                "Korando": [],
+                "Korando Sports": [],
+                "Kyron": [],
+                "Musso": [],
+                "Musso Grand": [],
+                "Rexton": [],
+                "Rodius": [],
+                "Tivoli": [],
+                "XLV": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Subaru",
+        "origin": "Japan",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/subaru-logo.png",
+        "models": [
+            {
+                "Forester": [],
+                "Outback": [],
+                "Tribeca (B9)": [],
+                "XV": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Suzuki",
+        "origin": "Japan",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/suzuki-logo.png",
+        "models": [
+            {
+                "Escudo": [],
+                "Grand Vitara": [],
+                "Jimny": [],
+                "Samurai": [],
+                "SJ": [],
+                "SX4 S-Cross": [],
+                "Vitara": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Tata",
+        "origin": "India",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/tata-logo.png",
+        "models": [
+            {
+                "Safari": [],
+                "Telcoline": [],
+                "Xenon": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Tesla",
+        "origin": "United States",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/tesla-logo.png",
+        "models": [
+            {
+                "Model Y": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Toyota",
+        "origin": "Japan",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/toyota-logo.png",
+        "models": [
+            {
+                "4Runner": [],
+                "C-HR": [
+                    "1.2 Turbo",
+                    "1.8 Hybrid",
+                    "2.0 Hybrid"
+                ],
+                "Cami": [
+                    "1.3"
+                ],
+                "Corolla": [
+                    "Cross"
+                ],
+                "FJ Cruiser": [],
+                "Fortuner": [],
+                "Harrier": [],
+                "Highlander": [],
+                "Hilux": [
+                    "2.4d",
+                    "2.5d",
+                    "3.0d"
+                ],
+                "Land Cruiser": [
+                    "2.8 D-4D Prado",
+                    "3.0 D-4D Prado",
+                    "300 Series",
+                    "4.0 Prado",
+                    "4.2 Diesel",
+                    "4.5 D",
+                    "4.6",
+                    "4.7",
+                    "5.7",
+                    "BJ 45",
+                    "BJ 60",
+                    "HJ 60",
+                    "HJ 75",
+                    "LC 300",
+                    "LC 300 VX 3.3 L",
+                    "LJ 70",
+                    "VX 80",
+                    "ZX 3.3 D",
+                    "ZX 3.5"
+                ],
+                "Prado": [],
+                "Raize": [],
+                "RAV4": [
+                    "1.8",
+                    "2.0",
+                    "2.0 D-4D",
+                    "2.0 Extra Multidrive S",
+                    "2.0 Multidrive S",
+                    "2.2 D-4D",
+                    "2.5 Hybrid"
+                ],
+                "Rush": [],
+                "Tundra": [],
+                "Venza": [],
+                "Yaris Cross": []
+            }
+        ]
+    },
+    {
+        "brand_name": "Volkswagen",
+        "origin": "Germany",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/volkswagen-logo.png",
+        "models": [
+            {
+                "Amarok": [
+                    "2.0 Bi-TDI",
+                    "2.0 TDI",
+                    "3.0 V6 TDI"
+                ],
+                "ID.3": [],
+                "ID.4": [],
+                "T-Cross": [],
+                "T-Roc": [],
+                "Taigo": [],
+                "Tiguan": [
+                    "1.4 TSI",
+                    "1.5 TSI",
+                    "1.6 TDI",
+                    "2.0 TDI",
+                    "2.0 TSI"
+                ],
+                "Tiguan AllSpace": [],
+                "Touareg": [
+                    "2.5 TDI",
+                    "3.0 TDI",
+                    "3.2",
+                    "3.6 FSI",
+                    "4.2",
+                    "5.0 TDI"
+                ]
+            }
+        ]
+    },
+    {
+        "brand_name": "Volvo",
+        "origin": "Sweden",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/volvo-logo.png",
+        "models": [
+            {
+                "EX30": [],
+                "XC40": [
+                    "1.5 T3",
+                    "1.5 T5 Recharge",
+                    "2.0 B4",
+                    "2.0 D3",
+                    "2.0 D4",
+                    "2.0 T4",
+                    "Recharge"
+                ],
+                "XC60": [
+                    "2.0 B4",
+                    "2.0 D3",
+                    "2.0 D4",
+                    "2.0 T",
+                    "2.0 T5",
+                    "2.0 T8",
+                    "2.0 T8 Recharge",
+                    "2.4 D5",
+                    "3.0 T6"
+                ],
+                "XC70": [
+                    "2.0 D3",
+                    "2.4 D5",
+                    "2.4 T",
+                    "2.5 T",
+                    "3.2 Premium"
+                ],
+                "XC90": [
+                    "2.0 B5",
+                    "2.0 B6",
+                    "2.0 D5",
+                    "2.0 T8",
+                    "2.0 T8 Recharge",
+                    "2.4 D5",
+                    "2.5 T",
+                    "2.5 T5",
+                    "2.9 T6"
+                ]
+            }
+        ]
+    }
+]
