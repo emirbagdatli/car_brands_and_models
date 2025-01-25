@@ -387,7 +387,7 @@
         ]
     },
     {
-        "Honda": "Honda",
+        "brand_name": "Honda",
         "origin": "Japan",
         "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/honda-logo.png",
         "models": [
@@ -410,7 +410,7 @@
         ]
     },
     {
-        "Honda": "Hummer",
+        "brand_name": "Hummer",
         "origin": "United States",
         "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/main/images/hummer-logo.png",
         "models": [
