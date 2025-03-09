@@ -2,7 +2,7 @@
     {
         "brand_name": "Altai",
         "origin": "Turkey",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-altai.png",
         "models": [
             {
                 "Carrier": [
@@ -37,7 +37,7 @@
     {
         "brand_name": "Apachi",
         "origin": "Turkey",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-apachi.png",
         "models": [
             {
                 "4V Cross": [],
@@ -76,7 +76,7 @@
     {
         "brand_name": "Aprilia",
         "origin": "Italy",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-aprilia.png",
         "models": [
             {
                 "Amico 50": [],
@@ -174,7 +174,7 @@
     {
         "brand_name": "Arora",
         "origin": "Turkey",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-arora.png",
         "models": [
             {
                 "Alfa 110": [],
@@ -288,7 +288,7 @@
     {
         "brand_name": "Kuba",
         "origin": "Turkey",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-kuba.png",
         "models": [
             {
                 "Ajax 150": [],
@@ -435,7 +435,7 @@
     {
         "brand_name": "Asya",
         "origin": "Turkey",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-asya.png",
         "models": [
             {
                 "Armada 250": [],
@@ -483,7 +483,7 @@
     {
         "brand_name": "Bajaj",
         "origin": "India",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-bajaj.png",
         "models": [
             {
                 "Avenger Cruise 220": [],
@@ -524,7 +524,7 @@
     {
         "brand_name": "Bashan",
         "origin": "China",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-bashan.png",
         "models": [
             {
                 "125": [],
@@ -536,7 +536,7 @@
     {
         "brand_name": "Benelli",
         "origin": "Italy",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-benelli.png",
         "models": [
             {
                 "125-S": [],
@@ -549,8 +549,9 @@
                 "BX 449": [],
                 "BX 505": [],
                 "DUE 756": [],
-                "Leoncino": [],
-                "Leoncino 250": [],
+                "Leoncino": [
+                    "250"
+                ],
                 "TNT 25": [],
                 "TNT 125": [],
                 "TNT 249-S": [],
@@ -583,7 +584,7 @@
     {
         "brand_name": "Bisan",
         "origin": "Turkey",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-bisan.png",
         "models": [
             {
                 "Atlas 125": [],
@@ -621,7 +622,7 @@
     {
         "brand_name": "Bianchi",
         "origin": "Italy",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-bianchi.png",
         "models": [
             {
                 "Cosmos 110": [],
@@ -636,7 +637,7 @@
     {
         "brand_name": "BMW",
         "origin": "Germany",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-bmw.png",
         "models": [
             {
                 "C 400 GT": [],
@@ -766,7 +767,7 @@
     {
         "brand_name": "CFmoto",
         "origin": "China",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-cfmoto.png",
         "models": [
             {
                 "150NK": [],
@@ -803,7 +804,7 @@
     {
         "brand_name": "Çelik Motor",
         "origin": "Turkey",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-celikmotor.png",
         "models": [
             {
                 "Angel 50": [],
@@ -830,7 +831,7 @@
     {
         "brand_name": "Daelim",
         "origin": "South Korea",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-daelim.png",
         "models": [
             {
                 "Altino": [],
@@ -854,7 +855,7 @@
     {
         "brand_name": "Dorado",
         "origin": "China",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-dorado.png",
         "models": [
             {
                 "Akida Cub 100": [],
@@ -876,7 +877,7 @@
     {
         "brand_name": "Ducati",
         "origin": "Italy",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-ducati.png",
         "models": [
             {
                 "748": [],
@@ -1053,7 +1054,7 @@
     {
         "brand_name": "Falcon",
         "origin": "China",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-falcon.png",
         "models": [
             {
                 "Attack 50": [],
@@ -1123,7 +1124,7 @@
     {
         "brand_name": "Gilera",
         "origin": "Italy",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-gilera.png",
         "models": [
             {
                 "CX 125": [],
@@ -1147,7 +1148,7 @@
     {
         "brand_name": "Haojue",
         "origin": "China",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-haojue.png",
         "models": [
             {
                 "DA135 S": [],
@@ -1163,7 +1164,7 @@
     {
         "brand_name": "Harley Davidson",
         "origin": "USA",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-harleydavidson.png",
         "models": [
             {
                 "Breakout 117": [],
@@ -1259,7 +1260,7 @@
     {
         "brand_name": "Hero",
         "origin": "India",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-hero.png",
         "models": [
             {
                 "Dash 110i": [],
@@ -1289,7 +1290,7 @@
     {
         "brand_name": "Honda",
         "origin": "Japan",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-honda.png",
         "models": [
             {
                 "Activa 100": [],
@@ -1505,7 +1506,7 @@
     {
         "brand_name": "Husqvarna",
         "origin": "Sweden",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-husqvarna.png",
         "models": [
             {
                 "CR 125": [],
@@ -1563,7 +1564,7 @@
     {
         "brand_name": "Hyosung",
         "origin": "South Korea",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-hyosung.png",
         "models": [
             {
                 "EZ 100": [],
@@ -1591,7 +1592,7 @@
     {
         "brand_name": "Hyundai",
         "origin": "South Korea",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-hyundai.png",
         "models": [
             {
                 "Cityzen 125": [],
@@ -1602,7 +1603,7 @@
     {
         "brand_name": "Jawa",
         "origin": "Czech Republic",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-jawa.png",
         "models": [
             {
                 "125 Dakar": [],
@@ -1633,7 +1634,7 @@
     {
         "brand_name": "Salcano",
         "origin": "Turkey",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-salcano.png",
         "models": [
             {
                 "Altay 100": [],
@@ -1676,7 +1677,7 @@
     {
         "brand_name": "Kawasaki",
         "origin": "Japan",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-kawasaki.png",
         "models": [
             {
                 "EL 125": [],
@@ -1814,7 +1815,7 @@
     {
         "brand_name": "Keeway",
         "origin": "China",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-keeway.png",
         "models": [
             {
                 "ARN 125": [],
@@ -1841,7 +1842,7 @@
     {
         "brand_name": "KTM",
         "origin": "Austria",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-ktm.png",
         "models": [
             {
                 "50 SX": [],
@@ -1978,7 +1979,7 @@
     {
         "brand_name": "Kymco",
         "origin": "Taiwan",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-kymco.png",
         "models": [
             {
                 "Agility 16+ 125i": [],
@@ -2049,7 +2050,7 @@
     {
         "brand_name": "Suzuki",
         "origin": "Japan",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-suzuki.png",
         "models": [
             {
                 "Address": [],
@@ -2178,7 +2179,7 @@
     {
         "brand_name": "Triumph",
         "origin": "United Kingdom",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-triumph.png",
         "models": [
             {
                 "Adventurer": [],
@@ -2278,7 +2279,7 @@
     {
         "brand_name": "Vespa",
         "origin": "Italy",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-vespa.png",
         "models": [
             {
                 "946 125 i.e.": [],
@@ -2344,7 +2345,7 @@
     {
         "brand_name": "Peugeot",
         "origin": "France",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-peugeot.png",
         "models": [
             {
                 "Belville 200i ABS": [],
@@ -2391,7 +2392,7 @@
     {
         "brand_name": "Yamaha",
         "origin": "Japan",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-yamaha.png",
         "models": [
             {
                 "Aerox 100": [],
@@ -2649,7 +2650,7 @@
     {
         "brand_name": "Yuki",
         "origin": "Turkey",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-yuki.png",
         "models": [
             {
                 "Active 125": [],
@@ -2764,7 +2765,7 @@
     {
         "brand_name": "Zelsun",
         "origin": "Turkey",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-zelsun.png",
         "models": [
             {
                 "250 R": [],
@@ -2785,7 +2786,7 @@
     {
         "brand_name": "Zorro",
         "origin": "Turkey",
-        "brand_logo": "",
+        "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-arora.png",
         "models": [
             {
                 "ZR 100-19 Elegant": [],
