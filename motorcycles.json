@@ -880,35 +880,40 @@
         "brand_logo": "https://raw.githubusercontent.com/emirbagdatli/car_brands_and_models/refs/heads/main/moto_images/logo-ducati.png",
         "models": [
             {
-                "748": [],
-                "748 R": [],
+                "748": [
+                    "R"
+                ],
                 "749": [],
                 "750 SS": [],
                 "796": [],
                 "848": [],
-                "848 Evo": [],
-                "848 Evo Corse SE": [],
+                "848 Evo": [
+                    "Corse SE"
+                ],
                 "900 SS": [],
                 "916 Biposto": [],
                 "996 Biposto": [],
                 "998 S": [],
                 "999": [],
                 "1000 GT": [],
-                "1098": [],
-                "1098 R": [],
-                "1098 S": [],
-                "1098 Tricolore": [],
+                "1098": [
+                    "R",
+                    "S",
+                    "Tricolore"
+                ],
                 "1100 EVO": [],
-                "1198": [],
-                "1198R": [],
-                "1198S": [],
+                "1198": [
+                    "R",
+                    "S"
+                ],
                 "1198 SP": [],
                 "1199 Superleggera": [],
                 "DesertX": [],
                 "Diavel": [],
-                "Diavel 1260": [],
-                "Diavel 1260 Lamborghini": [],
-                "Diavel 1260 S": [],
+                "Diavel 1260": [
+                    "Lamborghini",
+                    "S"
+                ],
                 "Diavel AMG Special Edition": [],
                 "Diavel Carbon": [],
                 "Diavel Cromo": [],
@@ -929,13 +934,16 @@
                 ],
                 "Hypermotard 795": [],
                 "Hypermotard 796": [],
-                "Hypermotard 821": [],
-                "Hypermotard 821 SP": [],
-                "Hypermotard 939": [],
-                "Hypermotard 939 SP": [],
-                "Hypermotard 950": [],
-                "Hypermotard 950 RVE": [],
-                "Hypermotard 950 SP": [],
+                "Hypermotard 821": [
+                    "SP"
+                ],
+                "Hypermotard 939": [
+                    "SP"
+                ],
+                "Hypermotard 950": [
+                    "RVE",
+                    "SP"
+                ],
                 "Hyperstrada": [],
                 "Monster 600": [],
                 "Monster 620ie": [],
@@ -947,17 +955,21 @@
                 "Monster 1000 DARK i.e.": [],
                 "Monster 1000 S": [],
                 "Monster 1100": [],
-                "Monster 1200": [],
-                "Monster 1200 R": [],
-                "Monster 1200 S": [],
-                "Monster 1200 S Stripe": [],
-                "Monster 797": [],
-                "Monster 797 Plus": [],
-                "Monster 937": [],
-                "Monster 937 Plus": [],
+                "Monster 1200": [
+                    "R",
+                    "S",
+                    "S Stripe"
+                ],
+                "Monster 797": [
+                    "Plus"
+                ],
+                "Monster 937": [
+                    "Plus"
+                ],
                 "Multistrada": [],
-                "Multistrada 1100": [],
-                "Multistrada 1100 S": [],
+                "Multistrada 1100": [
+                    "S"
+                ],
                 "Multistrada 1200": [
                     "Enduro",
                     "Enduro Pro",
@@ -975,8 +987,9 @@
                     "S"
                 ],
                 "Multistrada Touring Pack": [],
-                "Multistrada V2": [],
-                "Multistrada V2 S": [],
+                "Multistrada V2": [
+                    "S"
+                ],
                 "Multistrada V4": [
                     "Pikes Peak",
                     "Rally",
@@ -1372,16 +1385,18 @@
                 "CRF 450 R": [],
                 "CRF 450 X": [],
                 "CRF 70 F": [],
-                "CRF1000L Africa Twin": [],
-                "CRF1000L Africa Twin Adventure Sports": [],
-                "CRF1000L Africa Twin Adventure Sports DCT": [],
-                "CRF1000L Africa Twin DCT": [],
-                "CRF1100L Africa Twin": [],
-                "CRF1100L Africa Twin Adventure Sports": [],
-                "CRF1100L Africa Twin Adventure Sports (ES)": [],
-                "CRF1100L Africa Twin Adventure Sports DCT": [],
-                "CRF1100L Africa Twin Adventure Sports DCT (ES)": [],
-                "CRF1100L Africa Twin DCT": [],
+                "CRF1000L Africa Twin": [
+                    "Adventure Sports",
+                    "Adventure Sports DCT",
+                    "DCT"
+                ],
+                "CRF1100L Africa Twin": [
+                    "Adventure Sports",
+                    "Adventure Sports DCT",
+                    "DCT",
+                    "Twin Adventure Sports (ES)",
+                    "Twin Adventure Sports DCT (ES)"
+                ],
                 "CTX 1300": [],
                 "CX 500": [],
                 "CX 650": [],
@@ -1398,11 +1413,13 @@
                 "Goldwing GL 1000": [],
                 "Goldwing GL 1100": [],
                 "Goldwing GL 1200": [],
-                "Goldwing GL 1500": [],
-                "Goldwing GL 1500 SE": [],
-                "Goldwing GL 1800": [],
-                "Goldwing GL 1800 Bagger DCT": [],
-                "Goldwing GL 1800 DCT": [],
+                "Goldwing GL 1500": [
+                    "SE"
+                ],
+                "Goldwing GL 1800": [
+                    "Bagger DCT",
+                    "DCT"
+                ],
                 "Hawk": [],
                 "HD 80": [],
                 "Hero 100": [],
@@ -1416,14 +1433,17 @@
                 "NC 700 S": [],
                 "NC 700 X": [],
                 "NC 750D Integra": [],
-                "NC 750 S": [],
-                "NC 750 S DCT": [],
-                "NC 750 X": [],
-                "NC 750 X DCT": [],
+                "NC 750 S": [
+                    "DCT"
+                ],
+                "NC 750 X": [
+                    "DCT"
+                ],
                 "NM4 Vultus": [],
                 "NSS300 Forza": [],
-                "NT 1100": [],
-                "NT 1100 DCT": [],
+                "NT 1100": [
+                    "DCT"
+                ],
                 "NT 700 V Deauville ABS": [],
                 "NX 250": [],
                 "NX 4 Falcon": [],
@@ -1441,8 +1461,9 @@
                 "Shadow Spirit 750": [],
                 "Shadow SRX 90": [],
                 "SLR 650": [],
-                "Spacy 110": [],
-                "Spacy 110 Alpha": [],
+                "Spacy 110": [
+                    "Alpha"
+                ],
                 "Spacy 125": [],
                 "ST 1100 Pan European": [],
                 "ST 1300 Pan European": [],
@@ -1498,8 +1519,7 @@
                 "XRV 750 Africa Twin": [],
                 "Wave": [],
                 "Wave 110": [],
-                "Wing-go": [],
-                "Diğer Modeller": []
+                "Wing-go": []
             }
         ]
     },
@@ -1520,8 +1540,9 @@
                 "FE 501": [],
                 "FS 450": [],
                 "Norden 901": [],
-                "Nuda 900": [],
-                "Nuda 900R": [],
+                "Nuda 900": [
+                    "R"
+                ],
                 "SM 125 S": [],
                 "SM 450": [],
                 "SM 510": [],
@@ -1534,8 +1555,9 @@
                 "Svartpilen 801": [],
                 "Vitpilen 401": [],
                 "Vitpilen 701": [],
-                "TC 50": [],
-                "TC 50 Mini": [],
+                "TC 50": [
+                    "Mini"
+                ],
                 "TC 65": [],
                 "TC 85 17/14": [],
                 "TC 85 19/16": [],
@@ -1645,9 +1667,10 @@
                 "Attack": [],
                 "Cross 250": [],
                 "Hunter": [],
-                "Nova": [],
-                "Nova Max 125": [],
-                "Nova S": [],
+                "Nova": [
+                    "Max 125",
+                    "S"
+                ],
                 "Panther X": [],
                 "Rockstar 125": [],
                 "Runner": [],
@@ -1660,17 +1683,20 @@
                 "SM 150-T4": [],
                 "SM 200GY - 2": [],
                 "SM 250-4": [],
-                "Spider": [],
-                "Spider 100": [],
-                "Spider XL": [],
-                "Tiger 100": [],
-                "Tiger 100 Sport": [],
+                "Spider": [
+                    "100",
+                    "XL"
+                ],
+                "Tiger 100": [
+                    "Sport"
+                ],
                 "Tiger Speed 125": [],
                 "Vienna 125": [],
                 "Wind 150": [],
                 "Wings 125": [],
-                "Wolf": [],
-                "Wolf S": []
+                "Wolf": [
+                    "S"
+                ]
             }
         ]
     },
@@ -1684,8 +1710,9 @@
                 "EL 250": [],
                 "EL 252": [],
                 "EL 600 Eliminator": [],
-                "Eliminator 500": [],
-                "Eliminator 500 SE": [],
+                "Eliminator 500": [
+                    "SE"
+                ],
                 "EN 500": [],
                 "ER-5": [],
                 "ER-6 F": [],
@@ -1727,48 +1754,60 @@
                 "Ninja 250R": [],
                 "Ninja 250SL": [],
                 "Ninja 300": [],
-                "Ninja 400": [],
-                "Ninja 400 MY": [],
-                "Ninja 500": [],
-                "Ninja 500 SE": [],
-                "Ninja 650": [],
-                "Ninja 650 KRT Edition": [],
+                "Ninja 400": [
+                    "MY"
+                ],
+                "Ninja 500": [
+                    "SE"
+                ],
+                "Ninja 650": [
+                    "KRT Edition"
+                ],
                 "Ninja 7 Hybrid": [],
-                "Ninja H2": [],
-                "Ninja H2 Carbon": [],
-                "Ninja H2 R": [],
-                "Ninja H2 SX": [],
-                "Ninja H2 SX SE": [],
-                "Ninja ZX-4R": [],
-                "Ninja ZX-4RR": [],
-                "Ninja ZX-4RR 40th year": [],
-                "Ninja ZX-6R": [],
-                "Ninja ZX-6R 40th year": [],
+                "Ninja H2": [
+                    "Carbon",
+                    "R",
+                    "SX",
+                    "SX SE"
+                ],
+                "Ninja ZX-4R": [
+                    "R",
+                    "R 40th year"
+                ],
+                "Ninja ZX-6R": [
+                    "40th year"
+                ],
                 "Ninja 1000 SX": [],
-                "Ninja ZX-10R": [],
-                "Ninja ZX-10RR": [],
-                "Ninja ZX-10R SE": [],
+                "Ninja ZX-10R": [
+                    "R",
+                    "SE"
+                ],
                 "Ninja ZX-14R": [],
                 "Versys 650": [],
-                "Versys 1000": [],
-                "Versys 1000 S": [],
-                "Versys 1000 SE": [],
+                "Versys 1000": [
+                    "S",
+                    "SE"
+                ],
                 "Versys X300": [],
                 "VN 750 Vulcan": [],
                 "VN 800 Classic": [],
                 "VN 800 Drifter": [],
                 "VN 800 Sport": [],
                 "VN 800 Vulcan": [],
-                "VN 900": [],
-                "VN 900 Custom Special": [],
-                "VN 1500": [],
-                "VN 1500 Classic Tourer": [],
-                "VN 1500 Drifter": [],
+                "VN 900": [
+                    "Custom Special"
+                ],
+                "VN 1500": [
+                    "Classic Tourer",
+                    "Drifter"
+                ],
                 "VN 1600": [],
-                "VN 1700 Classic": [],
-                "VN 1700 Classic Tourer": [],
-                "VN 1700 Nomad": [],
-                "VN 1700 Voyager": [],
+                "VN 1700": [
+                    "Classic",
+                    "Classic Tourer",
+                    "Nomad",
+                    "Voyager"
+                ],
                 "VN 2000": [],
                 "Vulcan S": [],
                 "Voyager": [],
@@ -1776,24 +1815,31 @@
                 "Z 250SL": [],
                 "Z 300": [],
                 "Z 400": [],
-                "Z 500": [],
-                "Z 500 SE": [],
-                "Z 650": [],
-                "Z 650 RS": [],
-                "Z 750": [],
-                "Z 750 S": [],
+                "Z 500": [
+                    "SE"
+                ],
+                "Z 650": [
+                    "RS"
+                ],
+                "Z 750": [
+                    "S"
+                ],
                 "Z7 Hybrid": [],
-                "Z 800": [],
-                "Z 800 E": [],
-                "Z 900": [],
-                "Z 900 RS": [],
-                "Z 900 SE": [],
-                "Z 1000": [],
-                "Z 1000 R": [],
-                "Z 1000 SX": [],
+                "Z 800": [
+                    "E"
+                ],
+                "Z 900": [
+                    "RS",
+                    "SE"
+                ],
+                "Z 1000": [
+                    "R",
+                    "SX"
+                ],
                 "Zephyr": [],
-                "Z H2": [],
-                "Z H2 SE": [],
+                "Z H2": [
+                    "SE"
+                ],
                 "ZX-12 R": [],
                 "ZX-7 R": [],
                 "ZX-9 R": [],
@@ -2070,9 +2116,10 @@
                 "DR350": [],
                 "DR500": [],
                 "DR600": [],
-                "DR650": [],
-                "DR650 RS": [],
-                "DR650 SE": [],
+                "DR650": [
+                    "RS",
+                    "SE"
+                ],
                 "DR800 Big": [],
                 "DRZ400 S": [],
                 "DRZ400 SM": [],
@@ -2083,15 +2130,17 @@
                 "GN 400": [],
                 "GS 500": [],
                 "GS 650 G": [],
-                "GS 1000": [],
-                "GS 1000E": [],
-                "GS 1000L": [],
-                "GS 1000S": [],
+                "GS 1000": [
+                    "E",
+                    "L",
+                    "S"
+                ],
                 "GSF 1200 Bandit S": [],
                 "GSF 1250 Bandit S": [],
                 "GSF 400 Bandit": [],
-                "GSF 600 Bandit": [],
-                "GSF 600 Bandit S": [],
+                "GSF 600 Bandit": [
+                    "S"
+                ],
                 "GSF 650 Bandit S": [],
                 "GW 250F": [],
                 "GW250 Inazuma": [],
@@ -2113,13 +2162,15 @@
                 "GSX-R 400": [],
                 "GSX-R 600 Srad": [],
                 "GSX-R 750 Srad": [],
-                "GSX-R 1000": [],
-                "GSX-R 1000R": [],
+                "GSX-R 1000": [
+                    "R"
+                ],
                 "GSX-R 1100": [],
                 "GSX-R 1300 Hayabusa": [],
-                "GSX-S 1000": [],
-                "GSX-S 1000 GT": [],
-                "GSX-S 1000 GX": [],
+                "GSX-S 1000": [
+                    "GT",
+                    "GX"
+                ],
                 "GSX-S 125": [],
                 "GSX-S 750 ABS": [],
                 "GSX-S 750 Y": [],
@@ -2168,8 +2219,9 @@
                 "VL 1300 Intruder": [],
                 "VL 1400 Intruder": [],
                 "VL 1500 Intruder": [],
-                "VS 800 Intruder": [],
-                "VZ 800 Intruder M800": [],
+                "VS 800 Intruder": [
+                    "M800"
+                ],
                 "VZR 1800 Intruder": [],
                 "X5 GT 200": [],
                 "X7 GT 250": []
@@ -2184,11 +2236,12 @@
             {
                 "Adventurer": [],
                 "America": [],
-                "Bonneville": [],
-                "Bonneville Bobber": [],
-                "Bonneville Speed Master": [],
-                "Bonneville T100": [],
-                "Bonneville T120": [],
+                "Bonneville": [
+                    "Bobber",
+                    "Speed Master",
+                    "T100",
+                    "T120"
+                ],
                 "Boss": [],
                 "Daytona 660": [],
                 "Daytona 675": [],
@@ -2197,32 +2250,37 @@
                 "Daytona 955i": [],
                 "Daytona T595": [],
                 "Roadster 3 Touring": [],
-                "Rocket": [],
-                "Rocket 3 GT": [],
-                "Rocket 3 R": [],
-                "Rocket 3 Touring": [],
-                "Scrambler": [],
-                "Scrambler 1200 XC": [],
-                "Scrambler 1200 XE": [],
-                "Scrambler 400 X": [],
+                "Rocket": [
+                    "3 GT",
+                    "3 R",
+                    "3 Touring"
+                ],
+                "Scrambler": [
+                    "1200",
+                    "1200 XC",
+                    "1200 XE",
+                    "400 X"
+                ],
                 "Speed 400": [],
                 "Speed Four": [],
                 "Speedmaster": [],
-                "Speed Triple": [],
-                "Speed Triple 1200 RR": [],
-                "Speed Triple 1200 RS": [],
-                "Speed Triple R": [],
-                "Speed Triple RS": [],
-                "Speed Triple T509": [],
+                "Speed Triple": [
+                    "1200 RR",
+                    "1200 RS",
+                    "R",
+                    "RS",
+                    "T509"
+                ],
                 "Speed Twin": [],
                 "Sprint ST": [],
                 "Street Cup": [],
                 "Street Scrambler": [],
-                "Street Triple": [],
-                "Street Triple R": [],
-                "Street Triple RS": [],
-                "Street Triple RX": [],
-                "Street Triple S": [],
+                "Street Triple": [
+                    "R",
+                    "RS",
+                    "RX",
+                    "S"
+                ],
                 "Street Twin": [],
                 "Thruxton 1200 R": [],
                 "Thruxton 900": [],
@@ -2244,28 +2302,32 @@
                 "Tiger 1200 XRT": [],
                 "Tiger 1200 XRX": [],
                 "Tiger 1200 XRX LOW": [],
-                "Tiger 800": [],
-                "Tiger 800 XC": [],
-                "Tiger 800 XCA": [],
-                "Tiger 800 XCX": [],
-                "Tiger 800 XR": [],
-                "Tiger 800 XRT": [],
-                "Tiger 800 XRX": [],
+                "Tiger 800": [
+                    "XC",
+                    "XCA",
+                    "XCX",
+                    "XR",
+                    "XRT",
+                    "XRX"
+                ],
                 "Tiger 850 Sport": [],
-                "Tiger 900": [],
-                "Tiger 900 GT": [],
-                "Tiger 900 GT Low": [],
-                "Tiger 900 GT Pro": [],
-                "Tiger 900 Rally": [],
-                "Tiger 900 Rally Pro": [],
+                "Tiger 900": [
+                    "GT",
+                    "GT Low",
+                    "GT Pro",
+                    "Rally",
+                    "Rally Pro"
+                ],
                 "Tiger 955i": [],
-                "Tiger Explorer 1200": [],
-                "Tiger Explorer XC": [],
-                "Tiger Explorer XCA": [],
-                "Tiger Explorer XCX": [],
-                "Tiger Explorer XR": [],
-                "Tiger Explorer XRT": [],
-                "Tiger Explorer XRX": [],
+                "Tiger Explorer": [
+                    "1200",
+                    "XC",
+                    "XCA",
+                    "XCX",
+                    "XR",
+                    "XRT",
+                    "XRX"
+                ],
                 "Tiger Sport 660": [],
                 "Tiger Sport 800": [],
                 "Trident 660": [],
@@ -2535,15 +2597,19 @@
                 "TTR 250": [],
                 "TTR 50 E": [],
                 "TZR 50": [],
-                "Venture GT": [],
-                "Venture Lite": [],
-                "Venture Multi Lite": [],
-                "Venture Royal": [],
+                "Venture": [
+                    "Lite",
+                    "Multi Lite",
+                    "Royal"
+                ],
                 "Vercity 300": [],
-                "Virago XV 1100": [],
-                "Virago XV 250": [],
-                "Virago XV 535": [],
-                "Virago XV 750": [],
+                "Virago XV": [
+                    "1100",
+                    "125",
+                    "250",
+                    "535",
+                    "750"
+                ],
                 "VK540 - III": [],
                 "Vmax": [],
                 "Wild Star XV 1600": [],
@@ -2566,20 +2632,24 @@
                 "XJ 900 Diversion": [],
                 "XJR 1200": [],
                 "XJR 1300 SP": [],
-                "X-Max 125 ABS": [],
-                "X-Max 125 Iron Max ABS": [],
-                "X-Max 250": [],
-                "X-Max 250 ABS": [],
-                "X-Max 250 Iron Max ABS": [],
-                "X-Max 250 MomoDesign": [],
-                "X-Max 250 Tech Max": [],
-                "X-Max 300 ABS": [],
-                "X-Max 300 Iron Max ABS": [],
-                "X-Max 300 Tech Max": [],
-                "X-Max 400": [],
-                "X-Max 400 ABS": [],
-                "X-Max 400 Iron Max": [],
-                "X-Max 400 Tech Max": [],
+                "X-Max": [
+                    "125",
+                    "125 ABS",
+                    "125 Iron Max ABS",
+                    "250",
+                    "250 ABS",
+                    "250 Iron Max ABS",
+                    "250 MomoDesign",
+                    "250 Tech Max",
+                    "300",
+                    "300 ABS",
+                    "300 Iron Max ABS",
+                    "300 Tech Max",
+                    "400",
+                    "400 ABS",
+                    "400 Iron Max",
+                    "400 Tech Max"
+                ],
                 "XS 650": [],
                 "XS 750 E": [],
                 "XSR 125": [],
